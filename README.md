@@ -1,10 +1,8 @@
 
 <p align="center">
-$\color{#B9904F}{\textsf{Kails!}}$
+$\color{#8F9490}{\textsf{Kails!}}$
 </p>
 <p align="center">
-$\color{#B9904F}{\textsf{ | }}$ <a href="https://1525.atabook.org/">ata!</a> - <a href="https://rentry.co/bloodyteaparty/">rentry!</a>  $\color{#B9904F}{\textsf{ | }}$
+$\color{#8F9490}{\textsf{ | }}$  <a href="https://rentry.co/1525page">rentry!</a>  $\color{#8F9490}{\textsf{ | }}$
 </p>
-<p align="center">
-<img width="667" height="167" alt="photo_2026-04-27_09-33-53" src="https://github.com/user-attachments/assets/22c3959b-212e-4e86-a872-c74a03dec31c" />
-</p>
+
